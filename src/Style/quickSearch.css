@@ -1,0 +1,26 @@
+
+.Qsearch-heading{
+    color: rgb(55, 54, 54);
+    margin-top: 20px;
+    font-weight: 600;
+    font-size: 22px;
+  }
+  .Qsearch-subheading{
+    color: rgb(55, 54, 54);
+    margin: 10px 0;
+    font-size: 16px;
+    font-weight: 500;
+  }
+  .foodImage-div{
+    position: relative;
+    margin: 10px 0;
+    box-shadow: 5px 5px 5px rgb(218, 214, 214);
+  }
+  .food-description{
+    position: absolute;
+    top: 5px;
+    left: 170px;
+  }
+  .food-description > .para{
+    margin-right: 10px;
+  }

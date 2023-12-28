@@ -1,0 +1,85 @@
+
+.header-div{
+    background-color: rgb(235, 14, 14);
+    margin-top: 5px;
+    position: relative;
+    height: 60px;
+    /* margin-bottom: 10px; */
+}
+.header-logo{
+    position: absolute;
+    top: 10px;
+    left: 10%;
+    height: 40px;
+    width: 40px;
+    line-height: 40px;
+    border-radius: 50%;
+    background-color: aliceblue;
+    text-align: center;
+    color: rgb(235, 14, 14);
+    font-size: 25px;
+}
+.login-div{
+    position: absolute;
+    top: 20%;
+    right: 5%;
+}
+.login-btn{
+    color: white;
+    background-color: transparent;
+    border: none;
+    font-size: 20px;
+}
+.account-btn{
+    color: white;
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 5px;
+    padding: 3px;
+}
+.email{
+    margin: 10px auto;
+    width: 100%;
+    height: 35px;
+}
+.password{
+    margin: 10px auto;
+    height: 35px;
+    width: 100%;
+}
+.ModalHeading{
+    font-size: 20px;
+    font-weight: 700;
+    /* margin-right: 70%; */
+}
+.ModalLogin{
+    margin: 10px 10px 0 30px;
+    background-color: rgb(59, 139, 214);
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+.ModalLogin:hover{
+    background-color: rgb(21, 67, 230);
+}
+.ModalCancel{
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+.ModalCancel:hover{
+    background-color: rgb(243, 92, 23);
+}
+.facebook{
+    margin: 10px auto;
+    width: 100%;
+    padding: 5px;
+    border-radius: 3px;
+    height: 40px;
+    font-size: 14px;
+    border: none;
+    box-shadow: 1px 1px 5px gray;
+    background-color: white;
+    color: rgb(101, 100, 100)
+}
+
